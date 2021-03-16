@@ -1,0 +1,11 @@
+.app-bar{
+    box-shadow: 0 0 2px 0 grey;
+    padding: 1rem;
+    background:goldenrod;
+    display:flex;
+    justify-content: space-between;
+}
+
+svg{
+    width:1.25rem;
+}
